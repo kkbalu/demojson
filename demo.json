@@ -1,8 +1,8 @@
 [{
-chartType : 'column',
-xAxisname : 'Crew Rank',
-yAxisname : 'Count of Crew',
-chartData : [{"name":"Deck","y":62.74,"url":"http://bing.com/search?q=bar"},
+"chartType" : "column",
+"xAxisname" : "Crew Rank",
+"yAxisname" : "Count of Crew",
+"chartData" : [{"name":"Deck","y":62.74,"url":"http://bing.com/search?q=bar"},
  {"name":"Rating","y":10.57,"url":"http://bing.com/search?q=bar"},
  {"name":"Engine","y":7.23,"url":"http://bing.com/search?q=bar"},
  {"name":"Cabinet","y":5.58,"url":"http://bing.com/search?q=bar"}
