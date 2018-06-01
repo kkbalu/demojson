@@ -1,9 +1,0 @@
-{ 'widgets':[{
-      'widgetName' : 'Expired Certificates - By Department',
-      'properties' : {cols: 3, rows: 3, y: 0, x: 2,}
-    },
-    {
-      'widgetName' : 'Expired Certificates - By Departments',
-      'properties' : {cols: 3, rows: 3, y: 0, x: 2,}
-    }]
-}
