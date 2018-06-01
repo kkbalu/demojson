@@ -1,5 +1,5 @@
 {
-"chartType" : "pie",
+"chartType" : "column",
 "xAxisname" : "Crew Rank",
 "yAxisname" : "Count of Crew",
 "chartData" : [{"name":"Deck","y":62.74,"url":"http://bing.com/search?q=bar"},
