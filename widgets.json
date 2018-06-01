@@ -1,9 +1,13 @@
-{ 'widgets':[{
-      'widgetName' : 'Expired Certificates - By Department',
-      'properties' : {cols: 3, rows: 3, y: 0, x: 2,}
+{ "widgets":[{
+      "widgetName" : "Expired Certificates - By Department",
+      "properties" : {"cols": 2, "rows": 2, "y": 0, "x": 1},
+      "widgetId" :"1",
+      "widgetType" : "card"
     },
     {
-      'widgetName' : 'Expired Certificates - By Departments',
-      'properties' : {cols: 3, rows: 3, y: 0, x: 2,}
+      "widgetName" : "Expired Certificates - By Departments",
+      "properties" : {"cols": 3, "rows": 3, "y": 0, "x": 2},
+      "widgetId" :"1",
+      "widgetType" : "card"
     }]
 }
