@@ -1,0 +1,7 @@
+{ "widgets":[{
+      "widgetName" : "Expired Certificates - By Department",
+      "properties" : {"cols": 2, "rows": 2, "y": 0, "x": 1},
+      "widgetId" :"1",
+      "widgetType" : "card"
+    }]
+}
