@@ -1,0 +1,74 @@
+[
+{
+widgetName: "Crew Certificate Status By Department",
+widgetId: 2,
+widgetType: "ColumnGroup",
+bgcolor: "",
+properties: {
+cols: 4,
+rows: 2,
+y: 2,
+x: 4
+}
+},
+{
+widgetName: "Crew Relief Forecasting",
+widgetId: 3,
+widgetType: "Column",
+bgcolor: "",
+properties: {
+cols: 8,
+rows: 2,
+y: 4,
+x: 0
+}
+},
+{
+widgetName: "Crew Search",
+widgetId: 1,
+widgetType: "Search",
+bgcolor: "",
+properties: {
+cols: 2,
+rows: 1,
+y: 0,
+x: 4
+}
+},
+{
+widgetName: "Open COC",
+widgetId: 5,
+widgetType: "Card",
+bgcolor: "#3F51B5",
+properties: {
+cols: 1,
+rows: 1,
+y: 1,
+x: 4
+}
+},
+{
+widgetName: "Task List",
+widgetId: 6,
+widgetType: "Tasklist",
+bgcolor: "",
+properties: {
+cols: 4,
+rows: 4,
+y: 0,
+x: 0
+}
+},
+{
+widgetName: "Task Status",
+widgetId: 4,
+widgetType: "pivot",
+bgcolor: "",
+properties: {
+cols: 2,
+rows: 2,
+y: 0,
+x: 6
+}
+}
+]
